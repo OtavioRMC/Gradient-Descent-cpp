@@ -19,7 +19,8 @@ int main(){
 
   std::vector<double> startPoint = {-1.0};
   solver.setStartPoint(startPoint);
-   
+  
+  solver.setMaxIterations(50);
   solver.setStepSize(0.2);
 
   std::vector<double> funcLoc;

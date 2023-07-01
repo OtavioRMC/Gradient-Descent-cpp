@@ -96,7 +96,7 @@ private:
 
   int m_nDimensions;
 
-  int m_stepSize;
+  double m_stepSize;
 
   int m_maxIterations;
 
