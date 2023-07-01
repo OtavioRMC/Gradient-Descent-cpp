@@ -1,4 +1,4 @@
-#include "Gradient.hpp"
+#include "Gradient.h"
 #include <math.h>
 #include <iostream>
 #include <functional>
